@@ -4,24 +4,24 @@ This contains the setup of the Supertest and Cypress framework as well the docum
 Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
 
 How to install Supertest with Jest 
-Create a folder with any name (the name I used was ASSR-Supertest)
-Open Vscode and open the folder which you created in Vscode 
-Open the terminal and run the command "npm install --save-dev jest supertest"
-In your package.json file, add the code 
+*Create a folder with any name (the name I used was ASSR-Supertest)
+*Open Vscode and open the folder which you created in Vscode 
+*Open the terminal and run the command "npm install --save-dev jest supertest"
+*In your package.json file, add the code 
 "jest": {
     "testEnvironment": "node",
     "coveragePathIgnorePatterns": [
       "/node_modules/"
     ]
  },
-This is the basic configuration to set up Jest for testing your APIs.
+*This is the basic configuration to set up Jest for testing your APIs.
 
  In the package.json file, add the test script.
     Syntax: "scripts":{
                         "test": "jest"
                   },
 
-After, create a test folder to contain your tests (in my situation, create another folder called routes in the test folder prior to the tutorial I watched, it's optional to do so)
+*After, create a test folder to contain your tests (in my situation, create another folder called routes in the test folder prior to the tutorial I watched, it's optional to do so)
 Create a test file with the extension ".test.js" inside the test folder (the test file I created was named "template.test.js")
 In your ".test.js" file, copy and paste this syntax (the base syntax for supertest [source: Chatgpt Plus]) 
 //Supertest Template

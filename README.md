@@ -1,7 +1,7 @@
 # GitInspiredAssignment
 This contains the setup of the Supertest and Cypress framework as well the documentation of how to set them up.
 
-#Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
+# Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
 
 ## How to install Supertest with Jest 
 * Create a folder with any name (the name I used was ASSR-Supertest)

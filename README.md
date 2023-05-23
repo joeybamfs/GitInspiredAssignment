@@ -64,7 +64,7 @@ https://github.com/ladjs/supertest
 
 
 
-##How to install Cypress
+How to install Cypress
 Make sure that node is installed on your pc; if not, you can install node from the website: https://nodejs.org
 Open the command prompt and run “mkdir project_name” to create a new project (in my case, I run the prompt “mkdir ASSR-Cypress”)
 To initialize the Node.js project, run the "npm init -y" command in the terminal. (This is after you have opened the folder in Vscode) 

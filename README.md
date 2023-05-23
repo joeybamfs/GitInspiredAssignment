@@ -17,8 +17,8 @@ Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
 This is the basic configuration to set up Jest for testing your APIs.
 
 * In the package.json file, add the test script.
-    Syntax: "scripts":{
-                        "test": "jest"
+    Syntax: "scripts":{<br>
+                        "test": "jest"<br>
                   },
 
 * After, create a test folder to contain your tests (in my situation, create another folder called routes in the test folder prior to the tutorial I watched, it's optional to do so)

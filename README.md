@@ -14,9 +14,9 @@ Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
       "/node_modules/"
     ]
  },
-* This is the basic configuration to set up Jest for testing your APIs.
+This is the basic configuration to set up Jest for testing your APIs.
 
- In the package.json file, add the test script.
+* In the package.json file, add the test script.
     Syntax: "scripts":{
                         "test": "jest"
                   },

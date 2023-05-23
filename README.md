@@ -3,7 +3,7 @@ This contains the setup of the Supertest and Cypress framework as well the docum
 
 Setting Up Automated Testing Frameworks (Supertest with Jest and Cypress)
 
-How to install Supertest with Jest 
+# How to install Supertest with Jest 
 *Create a folder with any name (the name I used was ASSR-Supertest)
 *Open Vscode and open the folder which you created in Vscode 
 *Open the terminal and run the command "npm install --save-dev jest supertest"

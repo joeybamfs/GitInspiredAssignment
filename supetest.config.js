@@ -1,0 +1,1 @@
+export const baseUrl = "https://gitinspired-rw-api.amalitech-dev.net/"
